@@ -1,7 +1,7 @@
 " vim:foldmethod=marker:fen:
 scriptencoding utf-8
 
-let b:caw_oneline_comment = 'REM'
+let b:caw_oneline_comment = '::'
 
 if !exists('b:did_caw_ftplugin')
   if exists('b:undo_ftplugin')
